@@ -1,4 +1,4 @@
 package com.bksoftwarevn.model;
 
-public class Practice {
+public class Practice { 
 }
